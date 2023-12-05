@@ -54,4 +54,4 @@ jobs:
           app-name: 'jon55582-ComercioElectronico'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C21F6FCED71E4A9FA461E2CB05A9212E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3623E7DB52F4321A9F2E84457E9BDB9 }}
